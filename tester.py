@@ -2,7 +2,7 @@
 author: johncoderdev
 creation date: 02/10/2022
 license: MIT
-github repository:
+github repository: https://github.com/JohnCoderDev/tester-mc102.git
 """
 from sys import argv
 from subprocess import Popen, PIPE
